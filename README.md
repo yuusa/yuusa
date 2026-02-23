@@ -1,84 +1,6 @@
     1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
     2
-    3 「現場を知っている人間が、技術で改善する」を信条に、
+    3 「現場を知っている人間が、技術で改善する」を信信条に、
     4 EC運営・DX推進・Webシステム開発を行うハイブリッド・エンジニアです。
     5
     6 ## 🚀 Overview
@@ -156,5 +78,3 @@
    68
    69 ---
    70 *Generated with ❤️ and AI for professional growth.*
-
-  ---
