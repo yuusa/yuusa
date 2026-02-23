@@ -1,4 +1,4 @@
-    1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
+   1 # 👋 Hi, I'm Yusuke Tanaka | Business-Oriented Engineer
     2
     3 「現場を知っている人間が、技術で改善する」を信条に、
     4 EC運営・DX推進・Webシステム開発を行うハイブリッド・エンジニアです。
@@ -8,6 +8,7 @@
     8 - **EC実績:** 4大モール（楽天・Amazon・Yahoo!・Qoo10）を単独運営し、年間売上1.3億円を達成。
     9 - **DX実績:**
       JavaとAIを活用し、社内業務システム（勤怠・稟議）を自社開発。16名の現場で本番稼働中。
+      
    10 - **AI活用:** Claude/Geminiを開発パートナーとして使いこなし、設計・実装・検証を高速に完遂。
    11
    12 ---
@@ -57,10 +58,12 @@
    48 ## 🔗 Links
    49 - **Portfolio Site:**
       [https://tanaka-yusuke-portfolio.netlify.app](https://tanaka-yusuke-portfolio.netlify.app)
-   50 - **Wantedly:** (準備中)
+   50 - **Wantedly:** [準備中]
    51
    52 ## 📫 Contact
-   53 - Email: starrodeo@yahoo.co.jp
+   53 - **Email:** starrodeo@yahoo.co.jp
    54
    55 ---
    56 *Generated with ❤️ and AI for professional growth.*
+
+  ---
