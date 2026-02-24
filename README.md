@@ -40,6 +40,11 @@ EC運営・DX推進・Webシステム開発を行うハイブリッド・エン�
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
+
+## 🌱 Currently Learning & Exploring
+- **Backend:** Spring Bootを用いた、より堅牢なWebアプリケーションの設計と実装。
+- **Local AI:** QwenやLlamaなどのローカルAIモデルを活用した、セキュアで独自性のある開発環境の構築検証。
+- **UI/UX:** 和モダンをテーマにした、デザイン性と使いやすさを両立するフロントエンド表現の探求。
 &nbsp;
 
 ---
