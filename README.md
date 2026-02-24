@@ -68,9 +68,6 @@ CSVデータを読み込み、複雑な出退勤計算を自動化。Excel/PDF�
 ---
 
 &nbsp;
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuusa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuusa&layout=compact&theme=tokyonight)
 
 ## 🔗 Links
 - **Portfolio Site:** [https://tanaka-yusuke-portfolio.netlify.app](https://tanaka-yusuke-portfolio.netlify.app)
